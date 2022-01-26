@@ -95,6 +95,8 @@ Aqui eu conquistei a maioria do meu conhecimento. Acompanhei o crescimento da em
 
 - Homem mais rico da babilônia 
 
+- Descomplicando o docker
+
 ### Livros - Andamento
 
 - Aprenda Django3 com exemplos 
