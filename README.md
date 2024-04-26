@@ -48,7 +48,9 @@ Administro os ambientes de ERP, CRM, BI, entre outros; fornecendo insumos para s
 
 #### Analista de TI
 
-Fornecimento de Suporte em todos os níveis quanto ao sistema e a infraestrutura da empresa matriz e suas filiais. Implementação de MDM, CRM e Datawarehouse. Sustentação e troca de Firewall, organização e manutenção de servidores (Windows servers – AD, SMTP | Linux – Ubuntu e CentOs). Desenvolvimento de sistemas para cotação, orçamento de gastos, custo e ETL. Extração de dados e criação de relatórios gerenciais em PDF, Excel e Dashboards. Gerenciamento de ERP, Grafana, Zabbix e Helpdesk.
+Fornecimento de Suporte em todos os níveis quanto ao sistema e a infraestrutura da empresa matriz e suas filiais. Implementação de MDM, CRM e Datawarehouse. Sustentação e troca de Firewall, organização e manutenção de servidores (Windows servers – AD, SMTP / Linux – Ubuntu e CentOs). 
+
+Desenvolvimento de sistemas para cotação, orçamento de gastos, custo e ETL. Extração de dados e criação de relatórios gerenciais em PDF, Excel e Dashboards. Gerenciamento de ERP, Grafana, Zabbix e Helpdesk.
 
 ### Infojet (2018)
 
