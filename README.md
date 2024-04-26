@@ -1,104 +1,78 @@
-# Willian Soncini
+# Willian David Soncini
 
-## Biografia rápida 📄
+Desenvolvedor FullStack
 
-Sou formado em sistemas de informação e avanço em busca de novos conhecimentos, a fim de dominar a área de atuação de sistemas. 
-
-Comecei a trabalhar profissionalmente na área de tecnologia em 2017, como ajudante em manutenções simples de hardware e pude evoluir rapidamente para funções técnicas e de supervisão. Pude aprender a gerenciar servidores Linux e Windows, monitorar esses servidores, gerenciar Firewall, desenvolver aplicações para ETL, Data Warehouse e gerenciamente de dados. Pude implementar e gerenciar MDM, trabalhar em empresas com grande crescimento, que me permitiram sugar sua regra de negócio do Agro e dar suporte para sua estrutura, bem como me permitiram gerenciar seus bancos de dados e criar visualizações em seu BI. 
-
-Atualmente estou fazendo um curso para fortalecer meu JavaScript, Type Script e Node. Tenho uma lista de conhecimentos que viso melhorar esse ano, por meio de cursos e livros, e entre os itens estão AWS, engenharia de software, NoSql e Django4.  
-
-Nas horas vagas eu costumo ler, ir na academia e trabalhar em alguns projetos pessoais. Atualmente trato de alguns animais de rua para dar um suporte para eles. E estou por volta de 1 ano como vegano. 
-
-### Como me encontrar
+## Contato
 
 - Github: [williansoncini](https://github.com/williansoncini) 
 
 - Linkedin: [Willian Soncini](https://www.linkedin.com/in/willian-soncini-783b18160/) 
 
-## Formação, conhecimento e gostos
+## Resumo
 
-> Habilidades iniciais de programação e engenharia de software 
+Graduado em sistemas de informação desde 2021. Possuo experiência profissional na área há 7 anos. Atualmente, atuo como Analista de TI em uma multinacional de soluções agrícolas desenvolvendo sistemas e sustentando o ambiente. Dentre os conhecimentos adquiridos enquanto estudava e atuava no ramo da tecnologia pode-se ressaltar: Planejamento e desenvolvimento de software (desde API, interface WEB, backend, CI/CD, aplicativos multiplataforma até o Devops), ciência de dados e gestão de equipe. 
 
-Comecei a programar na faculdade e sempre me dediquei para ser um bom aluno, no meu tempo de bacharelado, não obtive nenhuma DP ou exame. No terceiro ano de faculdade, tivemos aula de engenharia de software e aí surgiu uma grande admiração pela engenharia, da qual viso me especializar. Pude fazer exercicios com desenvolvimento de Jogos utilizando Unity, fazer aplicações em React e API's em Node. Bem como desenvolver um Data warehouse utilizando Django como trabalho de conclusão de curso. Pude também aprender toda a parte de infra da empresa, como firewall, servidores e redes. Com a pandemia fizemos tudo remoto e aí surgiu também a vontade de trabalhar de forma remota. 
+## Conhecimentos técnicos
 
-## Terra Azul Turismo (2017)
+| Tecnologias | Frameworks | Nível |
+| -------- | -------- | -------- |
+| Python  | Django, Fastapi, Flask, Pandas, Spark  | Avançado  |
+| Javascript/Typescript  | React, React Native, Express (API), NextJs, Node | Avançado |
+| Banco de dados relacionais  | Firebird, Oracle, Mysql, Postgre, SQLite  | Avançado |
+| Ciência de dados  | Apache Airflow, Jupyter  | Avançado  |
+| DEVOPS  | Github actions, Jenkins, Kubernets, Docker, AWS - CLI, GCP - CLI, Terraform, Ansible, Kafka, Zabbix, Grafana  | Intermediario |
+| GO  | Gin - API  | Básico  |
+| NoSQL  | Mongo  | Básico  |
+| Java | Servlets | Básico |
 
-Aqui fui estagiário, onde pude realizar vendas, adquirir experencia em conversar com o cliente e trabalhar com o primeiro pacote Office. Bem como fazer toda a limpeza do local.  
+## Formação
 
-## Infojet (2018)
+Bacharel em Desenvolvimento de Sistemas pelo Centro Universitário Unifafibe (2018 – 2021)
 
-Aqui trabalhei com manutenção de hardware, formatações e instalações de programas, vendas, cobranças e controle de caixa. Aqui ajudei a desenvolver o site da empresa utilizando Wordpress e pude obter experencia em infraestrutura de uma empresa. 
+## Idiomas
 
-## Safra Rica (2018 - Atualmente)
+- Inglês: Avançado
+- Português: Nativo
 
-Aqui eu conquistei a maioria do meu conhecimento. Acompanhei o crescimento da empresa de 40 ~ 50 funcionários para mais de 100 funcionários atualmente. Pude implantar MDM, gerenciar e troca o firewall, ajudar a arquitetar a sala de servidores, organizar a infraestrutura da matriz e filiais, desenvolver sistemas de ETL, desenvolver um Data warehouse simples, ajudar a criar a maioria dos relatórios da empresa, em PDF, Excel e Dashboards. Ajudei a gerenciar e implantar o CRM, gerenciar o ERP. Obtive experiencia com Grafana e Zabbix, helpdesk e pensamento estratégico do TI na empresa. Pude entender como a tecnologia é importante para o Agronegócio. 
+## Experiências 
 
-## Alguns projetos pessoais ❤
+### Nutrien Soluções Agrícolas (03/2023 - atualmente)
 
-Às vezes, não consigo desenvolver plenamente certas habilidades no trabalho. Esses projetos pessoais são maneiras que encontrei para ir além: 
+#### Analista de Ti
 
-### Python - Django
+Trabalho planejando e desenvolvendo sistemas voltados para extração, tratamento, carga e transferência de dados; integrando-os com sharepoint, e-mail e outros bancos de dados através de automações, ademais, elaboro API's, automações e interfaces. 
 
-| Repo                                                                             |
-| -------------------------------------------------------------------------------- |
-| [social-network-django](https://github.com/williansoncini/social-network-django) |
-| [blog-django](https://github.com/williansoncini/blog-django)                     |
-| [Data-warehouse-TCC](https://github.com/williansoncini/Data-warehouse-TCC)       |
-| [Graficos-Python](https://github.com/williansoncini/Graficos-Python)             |
+Administro os ambientes de ERP, CRM, BI, entre outros; fornecendo insumos para sustentação e melhorias para o fluxo empresarial. Além disso, atuei na migração de banco de dados do ERP para Oracle e na troca de servidores, realizando a conversão de views, procedures e triggers, bem como auxiliando nas configurações dos servidores. 
 
-### JavaScript - React - Electron - Node
+### Safra Rica (2018 - 2023)
 
-| Repo                                                                                           | Tec                 |
-| ---------------------------------------------------------------------------------------------- | ------------------- |
-| [electron-navegador-flutuante](https://github.com/williansoncini/electron-navegador-flutuante) | Electron            |
-| [electron-quick-start](https://github.com/williansoncini/electron-quick-start)                 | Electron            |
-| [front-end-estagio-React](https://github.com/williansoncini/front-end-estagio-React)           | React               |
-| [nova-api-estagio](https://github.com/williansoncini/nova-api-estagio)                         | Node                |
-| [Minha_carteira_backend](https://github.com/williansoncini/Minha_carteira_backend)             | Node - Primeira API |
+#### Analista de TI
 
-### Docker
+Fornecimento de Suporte em todos os níveis quanto ao sistema e a infraestrutura da empresa matriz e suas filiais. Implementação de MDM, CRM e Datawarehouse. Sustentação e troca de Firewall, organização e manutenção de servidores (Windows servers – AD, SMTP | Linux – Ubuntu e CentOs). Desenvolvimento de sistemas para cotação, orçamento de gastos, custo e ETL. Extração de dados e criação de relatórios gerenciais em PDF, Excel e Dashboards. Gerenciamento de ERP, Grafana, Zabbix e Helpdesk.
 
-| Repo                                                           |
-| -------------------------------------------------------------- |
-| [docker-notas](https://github.com/williansoncini/docker-notas) |
+### Infojet (2018)
 
-## Mais informações
+#### Auxiliar de TI
 
-### Cursos em andamento
+Manutenção geral em TI e suporte ao usuário.
 
-- [Curso de JavaScript e TypeScript do básico ao avançado 2021](https://www.udemy.com/course/curso-de-javascript-moderno-do-basico-ao-avancado/) 
+## Certificações
 
-### Livros - Completos
+| Certificações | Instituição | Data |
+| -------- | -------- | -------- |
+| [Desenvolva seu primeiro app com Flutter](https://cursos.alura.com.br/degree/certificate/a75a04bf-ee91-49dd-a7e3-b0221dd39f5b?lang=pt_BR) | [Alura](https://www.alura.com.br/) | 06/2023 |
+| [A partir do zero: crie projetos em Dart, a linguagem utilizada no Flutter](https://cursos.alura.com.br/degree/certificate/5e5f036b-e8f3-43d7-981f-c3ce8f327e77?lang=pt_BR) | [Alura](https://www.alura.com.br/) | 04/2023 |
+| [Consultas com Oracle Database](https://cursos.alura.com.br/degree/certificate/7484db61-0009-49d3-842b-9688d9e1456e?lang=pt_BR) | [Alura](https://www.alura.com.br/) | 04/2023 |
+| [Apache AirFlow](https://cursos.alura.com.br/degree/certificate/19c040ef-f512-4043-af9e-de4a15f7ae85) | [Alura](https://www.alura.com.br/) | 01/2023 |
+| [Apache Spark](https://cursos.alura.com.br/degree/certificate/a377c759-ae61-4ff8-8bc7-ef51248673e9) | [Alura](https://www.alura.com.br/) | 01/2023 |
+| [Data Science](https://cursos.alura.com.br/degree/certificate/1203c550-2c37-45d9-9946-693bb3861312) | [Alura](https://www.alura.com.br/) | 01/2023 |
+| [React Native](https://cursos.alura.com.br/degree/certificate/e7145c95-7bce-4f49-97f2-b5b9861328d0) | [Alura](https://www.alura.com.br/) | 09/2022 |
+| [Engenharia de software](https://cursos.alura.com.br/degree/certificate/5ae17ce2-0671-4c6d-a6b8-85d11649fc2b) | [Alura](https://www.alura.com.br/) | 08/2022 |
+| [UX & Design Thinking](https://www.udemy.com/certificate/UC-c2b61adf-f942-49ce-8536-12c51a5868ea/) | [Udemy](https://www.udemy.com/) | 07/2022 |
+| [Fast API - Python](https://www.udemy.com/certificate/UC-08ef708a-74e6-4091-9d52-f33459f6b0fd/) | [Udemy](https://www.udemy.com/) | 05/2022 |
+| [Curso de JavaScript e TypeScript do básico ao avançado (Node, Express, React, KnexJs, NextJs, Design Patterns, Expressões regulares)](https://www.udemy.com/certificate/UC-e5668631-a6e7-437f-9f41-230236dda2c1/) | [Udemy](https://www.udemy.com/) | 04/2022 |
 
-- Bíblia 
 
-- Ddd (domain driven design) 
 
-- Curso intensivo de python 
 
-- Código limpo 
 
-- Rápido e devagar 
-
-- Tecnologia e projeto de data warehouse 
-
-- Data warehouse passa a passo 
-
-- Como organizar sua vida financeira 
-
-- O segredo das apresentações poderosas 
-
-- Adeus Aposentadoria 
-
-- Os segredos da mente milionária 
-
-- Homem mais rico da babilônia 
-
-- Descomplicando o docker
-
-### Livros - Andamento
-
-- Aprenda Django3 com exemplos 
-
-- Pro git 
