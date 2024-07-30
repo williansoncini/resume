@@ -40,7 +40,7 @@ Bacharel em Desenvolvimento de Sistemas pelo Centro Universitário Unifafibe (20
 
 #### Analista de Ti
 
-Trabalho planejando e desenvolvendo sistemas voltados para extração, tratamento, carga e transferência de dados; integrando-os com sharepoint, e-mail e outros bancos de dados através de automações, ademais, elaboro API's, automações e interfaces. 
+Trabalho planejando e desenvolvendo sistemas voltados para extração, tratamento, carga e transferência de dados; integrando-os com sharepoint, e-mail e outros bancos de dados através de automações, ademais, elaboro API's, automações e interfaces WEBs. 
 
 Administro os ambientes de ERP, CRM, BI, entre outros; fornecendo insumos para sustentação e melhorias para o fluxo empresarial. Além disso, atuei na migração de banco de dados do ERP para Oracle e na troca de servidores, realizando a conversão de views, procedures e triggers, bem como auxiliando nas configurações dos servidores. 
 
