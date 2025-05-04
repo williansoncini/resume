@@ -126,3 +126,12 @@ Graças à alta performance de leitura do MySQL, já com os dados previamente pr
 Auxiliar de TI | 2018
 
 * Atuei no suporte técnico a usuários, realizando manutenção preventiva e corretiva de equipamentos, instalação de sistemas operacionais e aplicações. Apoiei também atividades administrativas como controle de caixa, contas a receber e apoio no processo de vendas, contribuindo para o bom funcionamento operacional da empresa.
+
+## **Livros**
+
+- DDD - Domain Driven Design: Tackling Complexity in the Heart of Software
+- Clean Code: A Handbook of Agile Software Craftsmanship
+- Curso intensivo de Python
+- Aprenda Django3 com exemplos
+- Data Warehouse passa a passo 
+- Tecnologia e projeto de Data Warehouse
