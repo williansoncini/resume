@@ -1,6 +1,6 @@
 # **Willian David Soncini**
 
-**Desenvolvedor Full Stack | Especialista em Integrações de dados | Python | Node | React | Flutter | AWS | GCP | ETL Tools | SQL | Airflow | GLUE | DEVOPS**
+Desenvolvedor Full Stack | Especialista em Integrações de dados | Python | Node | React | Flutter | AWS | GCP | ETL Tools | SQL | Airflow | GLUE | DEVOPS
 
 ## **Contato**
 
@@ -74,7 +74,7 @@ Centro Universitário Unifafibe - Bebedouro - São Paulo | 2018 – 2021
 
 ### **Nutrien Soluções Agrícolas**
 
-**Analista de TI | 03/2023 – Atualmente**
+Analista de TI | 03/2023 – Atualmente
 
 * Automação para consumo de dados de APIs paginadas de terceiros utilizando Python. Essa solução foi implementada para integrar dados da Agrometrika e da plataforma SAAM, consolidando essas informações em nosso banco de dados. Essa integração tem sido fundamental para os times de Supply e Financeiro, pois os dados consolidados são utilizados em relatórios no Power BI, otimizando a análise e a tomada de decisões.
 
@@ -100,7 +100,7 @@ Centro Universitário Unifafibe - Bebedouro - São Paulo | 2018 – 2021
 
 ### **Safra Rica Agronegócios**
 
-**Analista de TI | 2018 – 2023**
+Analista de TI | 2018 – 2023
 
 * Desenvolvimento de sistema para controle de cotações de mercado, com foco também na elaboração de relatórios gerenciais. A aplicação foi desenvolvida utilizando Node.js com Express, React e PostgreSQL, sendo responsável por consolidar os preços de insumos e produtos em uma base única de dados. Essa base foi amplamente utilizada por diversas áreas da empresa, como compras, vendas e financeiro, otimizando a tomada de decisões estratégicas.
 
@@ -123,6 +123,6 @@ Graças à alta performance de leitura do MySQL, já com os dados previamente pr
 
 ### **Infojet Soluções**
 
-**Auxiliar de TI | 2018**
+Auxiliar de TI | 2018
 
 * Atuei no suporte técnico a usuários, realizando manutenção preventiva e corretiva de equipamentos, instalação de sistemas operacionais e aplicações. Apoiei também atividades administrativas como controle de caixa, contas a receber e apoio no processo de vendas, contribuindo para o bom funcionamento operacional da empresa.
