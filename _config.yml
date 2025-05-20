@@ -1,0 +1,8 @@
+theme: minima
+title: Willian Soncini - Currículo
+description: Portfólio de Engenheiro de Software e Dados
+baseurl: "/resume"
+url: "https://notas.williansoncini.com"
+plugins:
+  - jekyll-feed
+  - jekyll-seo-tag
