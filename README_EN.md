@@ -1,6 +1,6 @@
 # **Willian David Soncini**
 
-[<button style="background-color: #4CAF50; color: white; padding: 10px 20px; border: none; border-radius: 5px; cursor: pointer;" aria-label="Switch to Portuguese">Versão em Português</button>](README.md)
+<!-- [<button style="background-color: #4CAF50; color: white; padding: 10px 20px; border: none; border-radius: 5px; cursor: pointer;" aria-label="Switch to Portuguese">Versão em Português</button>](README.md) -->
 
 **Data Engineer | Full Stack Developer**  
 **Python • Airflow • AWS Glue • Node.js • React • GCP • DevOps**
