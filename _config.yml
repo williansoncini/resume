@@ -7,8 +7,8 @@ theme: minima
 markdown: kramdown
 permalink: pretty
 plugins:
-	- jekyll-seo-tag
+  - jekyll-seo-tag
 include:
-	- _pages
+  - _pages
 sass:
-	style: compressed
+  style: compressed
