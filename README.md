@@ -6,7 +6,6 @@
 ## **Contato**
 
 - **Localização:** Monte Azul Paulista, São Paulo, Brasil
-- **E-mail:** willian_soncini@hotmail.com
 - **LinkedIn:** [linkedin.com/in/willian-soncini-783b18160](https://www.linkedin.com/in/willian-soncini-783b18160/)
 - **GitHub:** [github.com/williansoncini](https://github.com/williansoncini)
 

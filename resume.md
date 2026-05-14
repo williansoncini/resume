@@ -9,7 +9,6 @@ hero_label: Currículo em português
 intro: Senior Data Engineer com 7+ anos de experiência em plataformas de dados, automação analítica, integrações e ferramentas internas para ambientes corporativos e multinacionais.
 location_label: Localização
 location: Monte Azul Paulista, São Paulo, Brasil
-email: willian_soncini@hotmail.com
 linkedin_url: https://www.linkedin.com/in/willian-soncini-783b18160/
 linkedin_text: linkedin.com/in/willian-soncini-783b18160
 github_url: https://github.com/williansoncini
@@ -20,14 +19,14 @@ download_label: Baixar PDF
 switch_url: /resume_en/
 switch_label: English version
 highlights:
-	- value: "7+"
-		label: anos em dados, automação e plataformas
-	- value: "70%"
-		label: redução aproximada de custos AWS
-	- value: "122+"
-		label: planilhas consolidadas no forecast Agrichem
-	- value: "+90%"
-		label: ganho de performance no painel Cockpit
+  - value: "7+"
+    label: anos em dados, automação e plataformas
+  - value: "70%"
+    label: redução aproximada de custos AWS
+  - value: "122+"
+    label: planilhas consolidadas no forecast Agrichem
+  - value: "+90%"
+    label: ganho de performance no painel Cockpit
 ---
 
 ## **Resumo Profissional**
