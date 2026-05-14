@@ -15,7 +15,7 @@ In my most recent role at **Nutrien**, I led the development of a custom sales a
 
 What drives me is the challenge of creating robust, elegant solutions that improve system efficiency and business outcomes. I enjoy working in collaborative, fast-paced environments where clean architecture, automation, and continuous improvement are valued.
 
-I would welcome the opportunity to bring my skills and experience to your team and contribute to high-impact technical projects. You can view my portfolio on GitHub ([github.com/williansoncini](https://github.com/williansoncini)) and connect with me on LinkedIn ([linkedin.com/in/willian-soncini](https://www.linkedin.com/in/willian-soncini-783b18160/)).
+I would welcome the opportunity to bring my skills and experience to your team and contribute to high-impact technical projects. You can view my GitHub profile ([github.com/williansoncini](https://github.com/williansoncini)) and connect with me on LinkedIn ([linkedin.com/in/willian-soncini](https://www.linkedin.com/in/willian-soncini-783b18160/)).
 
 Thank you for considering my application. I look forward to the opportunity to discuss how I can add value to your organization.
 

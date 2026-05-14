@@ -1,8 +1,14 @@
-# theme: minima
-# title: Willian Soncini - Currículo
-# description: Portfólio de Engenheiro de Software e Dados
-# baseurl: "/resume"
-# url: "https://notas.williansoncini.com"
-# plugins:
-#   - jekyll-feed
-#   - jekyll-seo-tag
+title: Willian Soncini
+description: Senior Data Engineer | AWS | Python | Analytics Automation
+url: "https://williansoncini.github.io"
+baseurl: "/resume"
+lang: en
+theme: minima
+markdown: kramdown
+permalink: pretty
+plugins:
+	- jekyll-seo-tag
+include:
+	- _pages
+sass:
+	style: compressed

@@ -1,0 +1,101 @@
+<!doctype html>
+<html lang="{{ page.lang | default: site.lang | default: 'en' }}">
+  <head>
+    <meta charset="utf-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1">
+    <title>{% if page.title %}{{ page.title }} | {% endif %}{{ site.title }}</title>
+    <link rel="preconnect" href="https://fonts.googleapis.com">
+    <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+    <link href="https://fonts.googleapis.com/css2?family=Fraunces:opsz,wght@9..144,600;9..144,700&family=IBM+Plex+Sans:wght@400;500;600;700&display=swap" rel="stylesheet">
+    <link rel="stylesheet" href="{{ '/assets/css/style.css' | relative_url }}">
+    {% seo %}
+  </head>
+  <body class="page-resume{% if page.body_class %} {{ page.body_class }}{% endif %}">
+    <div class="site-shell">
+      <header class="site-header">
+        <div class="site-header__inner">
+          <a class="brand" href="{{ '/' | relative_url }}">
+            <span class="brand__mark">WS</span>
+            <span class="brand__text">Willian Soncini</span>
+          </a>
+          <nav class="site-nav" aria-label="Primary">
+            <a class="site-nav__link" href="{{ '/' | relative_url }}">Home</a>
+            <a class="site-nav__link{% if page.url == '/resume/' %} is-active{% endif %}" href="{{ '/resume/' | relative_url }}">PT</a>
+            <a class="site-nav__link{% if page.url == '/resume_en/' %} is-active{% endif %}" href="{{ '/resume_en/' | relative_url }}">EN</a>
+            <a class="site-nav__link site-nav__link--external" href="https://www.linkedin.com/in/willian-soncini-783b18160/" target="_blank" rel="noreferrer">LinkedIn</a>
+            <a class="site-nav__link site-nav__link--external" href="https://github.com/williansoncini" target="_blank" rel="noreferrer">GitHub</a>
+          </nav>
+        </div>
+      </header>
+
+      <main class="site-main">
+        <article class="resume-shell">
+          <section class="resume-hero">
+            <div class="resume-hero__content">
+              <p class="eyebrow">{{ page.hero_label }}</p>
+              <h1>{{ page.name }}</h1>
+              <p class="resume-hero__role">{{ page.role }}</p>
+              <p class="resume-hero__intro">{{ page.intro }}</p>
+              <div class="tag-row">
+                <span class="tag-row__item">Python</span>
+                <span class="tag-row__item">AWS</span>
+                <span class="tag-row__item">SAP HANA</span>
+                <span class="tag-row__item">Redshift</span>
+                <span class="tag-row__item">Analytics Automation</span>
+              </div>
+              <div class="hero__actions">
+                <a class="button button--primary" href="{{ page.pdf_url | relative_url }}">{{ page.download_label }}</a>
+                <a class="button button--secondary" href="{{ page.switch_url | relative_url }}">{{ page.switch_label }}</a>
+              </div>
+            </div>
+
+            <aside class="resume-panel">
+              <p class="panel__label">{{ page.contact_heading }}</p>
+              <ul class="meta-list">
+                <li>
+                  <span>{{ page.location_label }}</span>
+                  <strong>{{ page.location }}</strong>
+                </li>
+                <li>
+                  <span>Email</span>
+                  <strong><a href="mailto:{{ page.email }}">{{ page.email }}</a></strong>
+                </li>
+                <li>
+                  <span>LinkedIn</span>
+                  <strong><a href="{{ page.linkedin_url }}" target="_blank" rel="noreferrer">{{ page.linkedin_text }}</a></strong>
+                </li>
+                <li>
+                  <span>GitHub</span>
+                  <strong><a href="{{ page.github_url }}" target="_blank" rel="noreferrer">{{ page.github_text }}</a></strong>
+                </li>
+              </ul>
+            </aside>
+          </section>
+
+          <section class="resume-metrics">
+            {% for item in page.highlights %}
+              <div class="metric-card">
+                <div class="metric-card__value">{{ item.value }}</div>
+                <p>{{ item.label }}</p>
+              </div>
+            {% endfor %}
+          </section>
+
+          <section class="resume-markdown">
+            {{ content }}
+          </section>
+        </article>
+      </main>
+
+      <footer class="site-footer">
+        <div class="site-footer__inner">
+          <p>Built for GitHub Pages with a bilingual, recruiter-friendly resume experience.</p>
+          <div class="site-footer__links">
+            <a href="{{ page.pdf_url | relative_url }}">{{ page.download_label }}</a>
+            <a href="{{ page.switch_url | relative_url }}">{{ page.switch_label }}</a>
+          </div>
+        </div>
+      </footer>
+    </div>
+  </body>
+</html>
