@@ -8,25 +8,30 @@ permalink: /resume_en/
 
 [<button style="background-color: #4CAF50; color: white; padding: 10px 20px; border: none; border-radius: 5px; cursor: pointer;" aria-label="Switch to Portuguese">Versão em Português</button>](/resume/)
 
-**Data Engineer | Full Stack Developer**  
-**Python • Airflow • AWS Glue • Node.js • React • GCP • DevOps**
+**Senior Software & Data Engineer**  
+**Python • SAP HANA • AWS Glue • Redshift • Power BI • React • Applied AI**
 
 ## **Contact**
 
+- 📍 Monte Azul Paulista, São Paulo, Brazil
+- ✉️ willian_soncini@hotmail.com
 - 💼 [LinkedIn](https://www.linkedin.com/in/willian-soncini-783b18160/)
 - 💻 [GitHub](https://github.com/williansoncini)
+- 🌐 [Portfolio / Resume](https://notas.williansoncini.com/resume/)
 
 ---
 
 ## **Professional Summary**
 
-Full Stack Developer and Data Engineer with over 7 years of experience delivering robust and scalable solutions for local and multinational companies. Graduated in Information Systems, I have worked across the entire software development lifecycle — from designing and architecting APIs with Python (Django, FastAPI, Flask) and Node.js/Express to building rich front-end interfaces using React, Next.js, React Native, and Flutter.
+Senior Software & Data Engineer with over 7 years of experience delivering robust and scalable solutions for local and multinational companies. Graduated in Information Systems, I have worked across the entire software development lifecycle — from designing and architecting APIs with Python (Django, FastAPI, Flask) and Node.js/Express to building rich front-end interfaces using React, Next.js, React Native, and Flutter.
 
-Strong expertise in relational databases such as Oracle, PostgreSQL, and SAP-HANA, along with extensive experience in data pipelines, ETL processes, and automation using Apache Airflow, Spark, AWS Glue, and BODS.
+Strong expertise in relational databases such as Oracle, PostgreSQL, and SAP HANA, along with extensive experience in data pipelines, ETL/ELT, Python automation, and analytics architecture using Airflow, AWS Glue, Redshift, Athena, S3, and BODS.
 
-Passionate about software and cloud architecture. I have worked with cloud infrastructure on AWS and GCP, containerization with Docker and Terraform, CI/CD with GitHub Actions, and system monitoring with Zabbix and Grafana.
+I am currently helping automate Agrichem's forecast campaign, orchestrating the generation, collection, and consolidation of more than 122 spreadsheets and reconciling those projections with current and historical revenue data.
 
-I also work with corporate integrations, business process automation using Power Automate, data visualization in Power BI, and SharePoint connectors. Throughout my career, I have contributed to legacy system modernization, process optimization, internal tooling, and continuous improvement in IT operations.
+I am also building the company's data warehouse from scratch, with landing/raw layers in S3 queried through Athena and refined/trusted layers in Redshift for analytics consumption and materialized consolidated views.
+
+I also work with Power Automate, AI-assisted Power BI, project coordination, and corporate data integration. At Nutrien, I helped reduce AWS costs by approximately 70% through refactoring, retiring legacy flows, and strategically migrating workloads to SAP HANA and BODS.
 
 ---
 
@@ -35,11 +40,12 @@ I also work with corporate integrations, business process automation using Power
 | Area                         | Technologies & Tools                                                                   | Level                  |
 | ---------------------------- | ---------------------------------------------------------------------------------------- | ---------------------- |
 | **Languages & Frameworks**   | Python (Django, FastAPI, Flask), JS/TS (Node.js, React, Next.js, React Native, Express), Flutter, Dart | Advanced               |
-| **Databases**                | Oracle, PostgreSQL, MySQL, Firebird, SAP-HANA, SQLite                                   | Advanced               |
-| **Data Engineering**         | Apache Airflow, Spark, Pandas, Jupyter, AWS Glue, BODS                                  | Advanced               |
-| **Cloud & DevOps**           | AWS (Glue, Redshift, EC2, S3), GCP, Docker, Kubernetes, Terraform, GitHub Actions (CI/CD), Jenkins, Ansible, Kafka | Intermediate/Advanced |
+| **Databases**                | Oracle, PostgreSQL, MySQL, Firebird, SAP HANA, Redshift, SQLite                         | Advanced               |
+| **Data Engineering**         | Airflow, Spark, Pandas, AWS Glue, Athena, S3, BODS, ETL/ELT, Data Warehouse             | Advanced               |
+| **Cloud & DevOps**           | AWS, Amazon SQS, GCP, Docker, Kubernetes, Terraform, GitHub Actions (CI/CD), Jenkins, Ansible, Kafka | Intermediate/Advanced |
 | **Systems & Infrastructure** | Windows Server, Linux (CentOS, Ubuntu), Active Directory, Zabbix, Grafana               | Advanced               |
-| **BI & Automation**          | Power BI, Power Automate, SharePoint, Email Automation                                  | Intermediate/Advanced |
+| **BI & Automation**          | Power BI, AI-assisted Power BI, Power Automate, SharePoint, Email Automation            | Intermediate/Advanced |
+| **Applied AI**               | OpenAI API, ElevenLabs, Amazon SageMaker, AI-powered automation, assisted dashboard generation | Intermediate          |
 
 ---
 
@@ -55,6 +61,8 @@ Centro Universitário Unifafibe – Bebedouro – São Paulo
 
 | Certification | Institution | Duration | Date |
 | ------------- | ----------- | -------- | ---- |
+| [AI in Production: Gen AI and Agentic AI at scale](https://www.udemy.com/certificate/UC-c9023169-e146-4304-a3bf-0b0ba437ded2/) | Udemy | 18.5h | - |
+| [The Complete Agentic AI Engineering Course (2025)](https://www.udemy.com/certificate/UC-e3557b5b-f442-44d5-99de-054b88ef8a5b/) | Udemy | 17h | - |
 | [LLM Engineering: Master AI, Large Language Models & Agents (In Progress)]() | Udemy | 25.5h | 04/2025 |
 | [Complete Power BI - From Basic to Advanced](https://www.udemy.com/certificate/UC-ddb4575d-7996-4195-8d45-cf2e2fc1f86a/) | Udemy | 10h | 12/2024 |
 | [Master Power Automate](https://www.udemy.com/certificate/UC-76ab9ab2-c04b-4194-85c6-bd9d84e71a69/) | Udemy | 13.5h | 10/2024 |
@@ -75,31 +83,36 @@ Centro Universitário Unifafibe – Bebedouro – São Paulo
 
 ## **Languages**
 
-- **Portuguese:** Native  
-- **English:** Advanced (reading, writing, and speaking)
+- **Portuguese:** Native or Bilingual  
+- **English:** Full Professional Proficiency
 
 ---
 
 ## **Professional Experience**
 
 ### **Nutrien Ag Solutions**  
-**IT Analyst / Data Engineer & Full Stack Developer**  
-**Mar/2023 – Present**
+**Senior IT Analyst / IT Analyst | Data Engineering & Full Stack Development**  
+**Apr/2023 – Present | Monte Azul Paulista, São Paulo, Brazil**  
+**Promotion: IT Analyst (Apr/2023 – May/2026) → Senior IT Analyst (Apr/2026 – Present)**
 
 - Automated paginated API integrations (Agrometrika, SAAM) in Python, feeding Power BI reports used by Finance and Supply teams.
-- Maintained and improved production-grade ETL pipelines using Airflow, AWS Glue, and Redshift.
-- Created daily Oracle data extraction routines using Python with multithreading, generating over 30 reports per day via SharePoint/email.
+- Maintained and optimized hundreds of ETL jobs using Airflow, AWS Glue, Redshift, Athena, S3, and SAP HANA.
+- Helped automate Agrichem's forecast campaign, including the generation, collection, and consolidation of 122+ spreadsheets, cross-referenced with current and historical revenue data.
+- Built Agrichem's data warehouse from scratch, with landing/raw layers in S3 queried via Athena and refined/trusted layers in Redshift.
+- Modeled the refined layer with dimensions, facts, and consolidated views, while the trusted layer materializes those views for analytics consumption.
+- Created parallel Oracle data extraction routines in Python, generating over 30 daily reports with automated delivery through SharePoint and email.
 - Built a credit approval web system using React, FastAPI, and MySQL with email-based authentication and full audit logging.
-- Participated in cloud and data infrastructure migration (Azure → SAP-HANA, Data Factory → BODS) to reduce costs and improve performance.
-- Developed 10+ SAP-HANA reports fully compliant with accounting requirements.
+- Helped reduce AWS costs by approximately 70% through refactoring, legacy flow shutdowns, and strategic migration of workloads to SAP HANA and BODS.
+- Developed SAP HANA reports fully compliant with accounting requirements even after the ERP rollback.
 - Migrated Firebird databases to Oracle with view, trigger, and procedure conversion.
-- Automated data workflows via Power Automate and SharePoint.
+- Used AI-assisted Power BI, Power Automate, and SharePoint to accelerate dashboards, data cross-analysis, and corporate workflows.
 - Built process to automatically submit overdue clients to Serasa for credit recovery.
 - Supported ERP and BI systems and managed the IT budget for one of the company’s branches.
 
 ### **Safra Rica Agribusiness**  
-**IT Analyst / Data Engineer & Full Stack Developer**  
-**2018 – Mar/2023**
+**IT Analyst / IT Assistant | Data Engineering, Web Systems & Infrastructure**  
+**Nov/2018 – Apr/2023 | Monte Azul Paulista, São Paulo, Brazil**  
+**Promotion: IT Assistant (Nov/2018 – Mar/2022) → IT Analyst (Mar/2022 – Apr/2023)**
 
 - Developed web systems for market pricing and sales budgeting using Node.js, React, and PostgreSQL.
 - Contributed to an R$ 20M revenue increase (R$ 220M → R$ 240M) through data-driven sales optimization tools.
@@ -116,6 +129,15 @@ Centro Universitário Unifafibe – Bebedouro – São Paulo
 
 - Delivered user support, equipment maintenance, and OS/application installation.
 - Supported administrative operations including financial control and sales processes.
+
+---
+
+## **Personal Projects**
+
+### **AI-Powered English Learning Platform**
+
+- Building an English-learning platform with AI conversation, shadowing, and grammar practice features.
+- Using OpenAI and ElevenLabs to provide guided speaking and voice-based practice.
 
 ---
 

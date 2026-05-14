@@ -8,25 +8,30 @@ permalink: /resume/
 
 [<button style="background-color: #4CAF50; color: white; padding: 10px 20px; border: none; border-radius: 5px; cursor: pointer;" aria-label="Switch to English">English Version</button>](/resume_en/)
 
-**Engenheiro de Dados | Full Stack Developer**  
-**Python • Airflow • AWS Glue • Node.js • React • GCP • DevOps**
+**Senior Software & Data Engineer**  
+**Python • SAP HANA • AWS Glue • Redshift • Power BI • React • IA Aplicada**
 
 ## **Contato**
 
+- 📍 Monte Azul Paulista, São Paulo, Brasil
+- ✉️ willian_soncini@hotmail.com
 - 💼 [LinkedIn](https://www.linkedin.com/in/willian-soncini-783b18160/)
 - 💻 [GitHub](https://github.com/williansoncini)
+- 🌐 [Portfólio / Currículo](https://notas.williansoncini.com/resume/)
 
 ---
 
 ## **Resumo Profissional**
 
-Desenvolvedor Full Stack e Engenheiro de Dados com mais de 7 anos de experiência entregando soluções robustas e escaláveis em ambientes corporativos, locais e multinacionais. Atuei em todas as etapas do ciclo de vida de software — desde a arquitetura de APIs com Python (Django, FastAPI, Flask) e Node.js/Express até o desenvolvimento de interfaces ricas com React, Next.js, React Native e Flutter.
+Senior Software & Data Engineer com mais de 7 anos de experiência entregando soluções robustas e escaláveis em ambientes corporativos, locais e multinacionais. Atuei em todas as etapas do ciclo de vida de software — desde a arquitetura de APIs com Python (Django, FastAPI, Flask) e Node.js/Express até o desenvolvimento de interfaces ricas com React, Next.js, React Native e Flutter.
 
-Tenho vivência sólida com bancos relacionais como Oracle, PostgreSQL e SAP-HANA, além de ampla experiência em pipelines de dados, ETLs e automações com Apache Airflow, Spark, AWS Glue e BODS.
+Tenho vivência sólida com bancos relacionais como Oracle, PostgreSQL e SAP-HANA, além de ampla experiência em pipelines de dados, ETL/ELT, automações em Python e arquitetura analítica com Airflow, AWS Glue, Redshift, Athena, S3 e BODS.
 
-Possuo domínio em infraestrutura de nuvem (AWS, GCP), conteinerização com Docker e Terraform, CI/CD com GitHub Actions e monitoramento com Zabbix e Grafana.
+Atualmente atuo na automatização da campanha de forecast da Agrichem, orquestrando a geração, coleta e consolidação de mais de 122 planilhas e cruzando essas projeções com dados atuais e históricos de faturamento.
 
-Atuei ainda com automações via Power Automate, conectores SharePoint, visualizações com Power BI e integração de dados corporativos. Contribuí ativamente para a modernização de sistemas legados, ganhos expressivos de performance e melhorias contínuas nas operações de TI.
+Também estou estruturando do zero um data warehouse para a operação, com camadas landing/raw em S3 consultadas via Athena e camadas refined/trusted em Redshift para consumo analítico e materialização de visões consolidadas.
+
+Atuo ainda com Power Automate, Power BI com apoio de IA, gerenciamento de projetos e integração de dados corporativos. Na Nutrien, contribuí para uma redução aproximada de 70% dos custos AWS por meio de refatorações, desligamento de fluxos e migração estratégica de cargas para SAP HANA e BODS.
 
 ---
 
@@ -36,11 +41,12 @@ Atuei ainda com automações via Power Automate, conectores SharePoint, visualiz
 | --------------------------------- | ----------------------------------------------------------------------------------------- | ---------------------- |
 | **Linguagens**                  | Python, JavaScript, TypeScript, Dart                                          | Avançado               |
 | **Frameworks & Bibliotecas**   | Django, FastAPI, Flask, Node.js, Express, React, Next.js, React Native, Flutter | Avançado               |
-| **Banco de Dados**                | Oracle, PostgreSQL, MySQL, Firebird, SAP-HANA, SQLite                                     | Avançado               |
-| **Engenharia de Dados**           | Airflow, Spark, Pandas, Jupyter, AWS Glue, BODS                                           | Avançado               |
-| **Cloud & DevOps**                | AWS (Glue, Redshift, EC2, S3), GCP, Docker, Kubernetes, Terraform, GitHub Actions (CI/CD), Ansible, Kafka | Intermediário/Avançado |
+| **Banco de Dados**                | Oracle, PostgreSQL, MySQL, Firebird, SAP-HANA, Redshift, SQLite                           | Avançado               |
+| **Engenharia de Dados**           | Airflow, Spark, Pandas, AWS Glue, Athena, S3, BODS, ETL/ELT, Data Warehouse               | Avançado               |
+| **Cloud & DevOps**                | AWS, Amazon SQS, GCP, Docker, Kubernetes, Terraform, GitHub Actions (CI/CD), Ansible, Kafka | Intermediário/Avançado |
 | **Infraestrutura & Sistemas**     | Windows Server, Linux (CentOS, Ubuntu), Active Directory, Zabbix, Grafana                 | Avançado               |
-| **BI & Automação**                | Power BI, Power Automate, SharePoint, Email Automation                                    | Intermediário/Avançado |
+| **BI & Automação**                | Power BI, Power BI com IA, Power Automate, SharePoint, Email Automation                   | Intermediário/Avançado |
+| **IA Aplicada**                   | OpenAI API, ElevenLabs, Amazon SageMaker, automações com IA e geração assistida de dashboards | Intermediário          |
 
 ---
 
@@ -56,6 +62,8 @@ Centro Universitário Unifafibe – Bebedouro – São Paulo
 
 | Certificação | Instituição | Carga Horária | Data |
 | ------------ | ----------- | ------------- | ---- |
+| [AI in Production: Gen AI and Agentic AI at scale](https://www.udemy.com/certificate/UC-c9023169-e146-4304-a3bf-0b0ba437ded2/) | Udemy | 18,5h | - |
+| [The Complete Agentic AI Engineering Course (2025)](https://www.udemy.com/certificate/UC-e3557b5b-f442-44d5-99de-054b88ef8a5b/) | Udemy | 17h | - |
 | [LLM Engineering: Master AI, Large Language Models & Agents (Em andamento)]() | Udemy | 25,5h | 04/2025 |
 | [Power BI Completo - Do Básico ao Avançado](https://www.udemy.com/certificate/UC-ddb4575d-7996-4195-8d45-cf2e2fc1f86a/) | Udemy | 10h | 12/2024 |
 | [Domine o Power Automate](https://www.udemy.com/certificate/UC-76ab9ab2-c04b-4194-85c6-bd9d84e71a69/) | Udemy | 13,5h | 10/2024 |
@@ -77,30 +85,35 @@ Centro Universitário Unifafibe – Bebedouro – São Paulo
 ## **Idiomas**
 
 - **Português:** Nativo  
-- **Inglês:** Avançado (leitura técnica, escrita e conversação)
+- **Inglês:** Fluente profissional (leitura técnica, escrita e conversação)
 
 ---
 
 ## **Experiência Profissional**
 
 ### **Nutrien Soluções Agrícolas**  
-**Analista de TI / Engenheiro de Dados & Desenvolvedor Full Stack**  
-**Mar/2023 – Atual**
+**Analista de TI SR / Analista de TI PL | Engenheiro de Dados & Desenvolvedor Full Stack**  
+**Abr/2023 – Atual | Monte Azul Paulista, São Paulo, Brasil**  
+**Progressão: Analista de TI PL (Abr/2023 – Mai/2026) → Analista de TI SR (Abr/2026 – Atual)**
 
-- Automatização de integrações com APIs REST paginadas (Agrometrika, SAAM) utilizando Python, consolidando dados críticos em banco de dados para relatórios gerenciais via Power BI.utilizados por Supply e Financeiro.
-- Sustentação e otimização de centenas de jobs de ETL com Airflow, AWS Glue e Redshift.
+- Automatização de integrações com APIs REST paginadas (Agrometrika, SAAM) utilizando Python, consolidando dados críticos em banco de dados para relatórios gerenciais via Power BI, utilizados por Supply e Financeiro.
+- Sustentação e otimização de centenas de jobs de ETL com Airflow, AWS Glue, Redshift, Athena, S3 e SAP-HANA.
+- Automatização da campanha de forecast da Agrichem, incluindo geração, coleta e consolidação de mais de 122 planilhas, com cruzamento entre projeções e dados atuais e históricos de faturamento.
+- Estruturação do data warehouse da Agrichem do zero, com landing/raw em S3 consultados via Athena e camadas refined/trusted em Redshift.
+- Modelagem da camada refined com dimensões, fatos e views consolidadoras, e da camada trusted como materialização dessas visões para consumo analítico.
 - Criação de scripts para extração paralela de dados Oracle com Python, gerando mais de 30 relatórios diários com envio automático via SharePoint e e-mail.
 - Desenvolvimento de app web para aprovação de vendas com React, FastAPI e MySQL, com autenticação por e-mail e rastreabilidade.
-- Migração de ambientes (Azure → SAP-HANA, Data Factory → BODS), com ganhos de performance e redução de custos.
+- Redução aproximada de 70% dos custos AWS por meio de refatorações, desligamento de fluxos e migração estratégica de cargas para SAP-HANA e BODS.
 - Criação de relatórios 100% conformes no SAP-HANA mesmo após retorno ao ERP anterior.
 - Migração de bancos (Firebird → Oracle), conversão de views, procedures e triggers.
-- Automação de fluxos com Power Automate e SharePoint.
+- Uso de Power BI com IA, Power Automate e SharePoint para acelerar dashboards, cruzamentos de dados e automações corporativas.
 - Automatização do envio de inadimplentes ao Serasa, com impacto direto na recuperação de crédito.
 - Suporte a ERP e BI da empresa, além do controle de orçamento de TI.
 
 ### **Safra Rica Agronegócios**  
-**Analista de TI / Engenheiro de Dados & Desenvolvedor Full Stack**  
-**2018 – Mar/2023**
+**Analista de TI / Auxiliar de T.I. | Engenharia de Dados, Sistemas Web e Infraestrutura**  
+**Nov/2018 – Abr/2023 | Monte Azul Paulista, São Paulo, Brasil**  
+**Progressão: Auxiliar de T.I. (Nov/2018 – Mar/2022) → Analista de TI (Mar/2022 – Abr/2023)**
 
 - Desenvolvimento de sistemas WEB para cotação de mercado e orçamento de vendas com Node.js, React e PostgreSQL.
 - Ferramenta web de orçamentos que contribuiu diretamente para o aumento do faturamento de R$ 220M para R$ 240M.
@@ -117,6 +130,15 @@ Centro Universitário Unifafibe – Bebedouro – São Paulo
 
 - Suporte técnico, manutenção de equipamentos e instalação de sistemas.
 - Apoio no controle financeiro e suporte ao processo comercial.
+
+---
+
+## **Projetos Pessoais**
+
+### **Plataforma de Inglês com IA**
+
+- Desenvolvimento de plataforma de inglês com conversação com IA, recursos de shadowing e treino de gramática.
+- Integração com OpenAI e ElevenLabs para experiências de voz e prática guiada.
 
 ---
 
